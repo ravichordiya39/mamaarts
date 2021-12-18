@@ -1,0 +1,60 @@
+#errorModal.modal-dialog {
+    margin: 20vh auto 0px auto
+}
+#alertModal.modal-dialog {
+    margin: 20vh auto 0px auto
+}
+p.contactmsg {
+    background: green;
+    color: #fff;
+    font-size: 15px;
+    padding: 5px;
+    display: none;
+}
+
+.single-video.col-md-4 {
+    
+    margin-top: 20px;
+    color: #fff;
+    
+}
+.single-video h4 {
+  font-family: cursive;
+    text-align: center;
+    font-size: 19px;
+    color: #e86b33;
+    border-bottom: 2px solid #e86b33;
+    height: 40px;
+}
+p.subsmsg {
+    background: green;
+    color: #fff;
+    font-size: 15px;
+    padding: 5px;
+    display: none;
+}
+p.subsmsgalert {
+    background: red;
+    color: #fff;
+    font-size: 15px;
+    padding: 5px;
+    display: none;
+}
+
+
+.goog-te-banner-frame.skiptranslate {
+    display: none !important;
+    } 
+body {
+    top: 0px !important; 
+    }
+    
+    .goog-logo-link {
+   display:none !important;
+}
+
+.goog-te-gadget {
+   color: transparent !important;
+}
+
+
